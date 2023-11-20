@@ -1,4 +1,9 @@
-# Data-Scientist-Books
+# Appropriate Books: Research Scientist - AI - DL - ML 
+
+### Get started with Research and AI/ML project implementation.
+- If you're looking for assistance with a project implementation that aligns with your needs, feel free to get in touch with us [LinkedIn](https://www.linkedin.com/in/a-a-a-a-stark-69696617b/).
+- To get in touch with us and discuss your project implementation needs, please send an email to [4444stark@gmail.com](mailto:4444stark@gmail.com).
+- Thank you for considering our services. We look forward to working with you!
 
 ## Book Lists
 
