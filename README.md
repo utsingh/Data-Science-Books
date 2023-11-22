@@ -1,7 +1,6 @@
 # Appropriate Books: Research Scientist - AI - DL - ML 
 
-### Get started with Research and AI/ML project implementation.
-- If you're looking for assistance with a project implementation that aligns with your needs, feel free to get in touch with us. Thank you for considering our services. We look forward to working with you!
+> **Get started with Research and AI/ML project implementation:** If you're looking for assistance with a project implementation that aligns with your needs, feel free to get in touch with us. Thank you for considering our services. We look forward to working with you!
 <div align="center">
   <div class="container">
     <p>
